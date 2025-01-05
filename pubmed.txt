@@ -1,0 +1,547 @@
+PMID- 35287000
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220412
+LR  - 20220412
+IS  - 1873-5223 (Electronic)
+IS  - 1471-5953 (Linking)
+VI  - 60
+DP  - 2022 Mar
+TI  - Heutagogy: A self-determined learning approach for Midwifery Continuity of Care 
+      experiences.
+PG  - 103329
+LID - S1471-5953(22)00043-9 [pii]
+LID - 10.1016/j.nepr.2022.103329 [doi]
+AB  - AIM: The aim of this discussion paper is to discuss learning theories in 
+      midwifery education, as related to the Midwifery Continuity of Care Experience 
+      and to propose an original conceptual framework based on Heutagogy. BACKGROUND: 
+      Midwifery education curricula include a number of midwifery practice experiences. 
+      One of the requirements is for students to provide Midwifery Continuity of Care. 
+      To achieve these experiences, students in Australia are required to provide care 
+      to at least ten (10) women through pregnancy, be on call for the woman's birth 
+      and provide at least two visits post-birth. Continuity of care experiences appear 
+      to have been incorporated without sufficient consideration of the educational 
+      purpose of the experience, or how the experiences contribute to the development 
+      of the profession. Although we do know midwifery practice embraces woman-centred 
+      care as its philosophical underpinning, a learning approach that is congruent 
+      with this philosophy needs to be clearly articulated. DESIGN: A discussion paper 
+      that compared and contrasted learning theories to align with Midwifery Continuity 
+      of Care experiences. METHODS: A review of the literature on learning theories was 
+      conducted before comparing and contrasting the theories to arrive at a conceptual 
+      framework focused on learning theory and its application to the Midwifery 
+      Continuity of Care Experience. RESULTS: Heutagogy provides a potentially 
+      congruent educational learning approach to underpin the continuity of care 
+      experiences, in comparison to traditional learning theories of pedagogy and 
+      andragogy. With a paucity of research in the application of heutagogy to 
+      midwifery education, it's conceptual underpinnings and the possible application 
+      to the Continuity of Care Experience, this paper explores the possible 
+      theoretical applications of heutagogy to midwifery education. CONCLUSION: As a 
+      learning theory, heutagogy is well - aligned with woman-centred care. Heutagogy 
+      provides a theoretical framework suitable to underpin strategies, including the 
+      conceptual framework proposed, that may assist in empowering students to 
+      participate in their own education by giving them the ability to be 
+      self-determined in both their approach to learning and to evaluate their own 
+      learning needs.
+CI  - Copyright © 2022 Elsevier Ltd. All rights reserved.
+FAU - Hainsworth, Nicole
+AU  - Hainsworth N
+AD  - The University of Newcastle, College of Health, Medicine and Wellbeing School of 
+      Nursing and Midwifery University Drive, Callaghan NSW 2308, Australia. Electronic 
+      address: Nicole.hainsworth@newcastle.edu.au.
+FAU - Dowse, Eileen
+AU  - Dowse E
+AD  - The University of Newcastle, College of Health, Medicine and Wellbeing School of 
+      Nursing and Midwifery University Drive, Callaghan NSW 2308, Australia. Electronic 
+      address: Eileen.Dowse@newcastle.edu.au.
+FAU - Cummins, Allison
+AU  - Cummins A
+AD  - The University of Newcastle, College of Health, Medicine and Wellbeing School of 
+      Nursing and Midwifery, Central Coast Clinical School and Research Institute, 
+      Level 9, 77a Holden St, Gosford Hospital, Gosford, NSW 2250, Australia. 
+      Electronic address: Allison.cummins@newcastle.edu.au.
+FAU - Ebert, Lyn
+AU  - Ebert L
+AD  - Southern Cross University, Hogbin Drive, Coffs Harbour, NSW 2450, Australia. 
+      Electronic address: Lyn.ebert@scu.edu.au.
+FAU - Foureur, Maralyn
+AU  - Foureur M
+AD  - The University of Newcastle, College of Health, Medicine and Wellbeing School of 
+      Nursing and Midwifery University Drive, Callaghan NSW 2308, Australia; Hunter New 
+      England Local Health District, Nursing and Midwifery Research Centre James 
+      Fletcher Campus, Gate Cottage, 72 Watt Street, Newcastle, NSW 2300, Australia. 
+      Electronic address: Maralyn.foureur@health.nsw.gov.au.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220310
+PL  - Scotland
+TA  - Nurse Educ Pract
+JT  - Nurse education in practice
+JID - 101090848
+SB  - IM
+MH  - Continuity of Patient Care
+MH  - Curriculum
+MH  - Female
+MH  - Humans
+MH  - Learning
+MH  - *Midwifery/education
+MH  - Models, Educational
+MH  - Pregnancy
+OTO - NOTNLM
+OT  - Continuity of care experiences
+OT  - Heutagogy
+OT  - Learning theories
+OT  - Midwifery education
+OT  - Self-determined learning
+EDAT- 2022/03/15 06:00
+MHDA- 2022/04/13 06:00
+CRDT- 2022/03/14 20:12
+PHST- 2021/10/25 00:00 [received]
+PHST- 2022/03/01 00:00 [revised]
+PHST- 2022/03/08 00:00 [accepted]
+PHST- 2022/03/15 06:00 [pubmed]
+PHST- 2022/04/13 06:00 [medline]
+PHST- 2022/03/14 20:12 [entrez]
+AID - S1471-5953(22)00043-9 [pii]
+AID - 10.1016/j.nepr.2022.103329 [doi]
+PST - ppublish
+SO  - Nurse Educ Pract. 2022 Mar;60:103329. doi: 10.1016/j.nepr.2022.103329. Epub 2022 
+      Mar 10.
+
+PMID- 39237328
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240905
+LR  - 20240905
+IS  - 1943-5657 (Electronic)
+IS  - 0033-8397 (Linking)
+VI  - 96
+IP  - 1
+DP  - 2024 Sep
+TI  - Heutagogy in the Radiologic Sciences: Empowering Self-Determined Learners.
+PG  - 37-44
+FAU - Stelmark, Jarek
+AU  - Stelmark J
+AD  - Jarek Stelmark, MBA, R.T.(R)(CT)(MR)(CV)(QM) (BD)(VI), is professor for City 
+      University of New York Hostos Community College in Bronx.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Radiol Technol
+JT  - Radiologic technology
+JID - 0401256
+SB  - IM
+MH  - Humans
+MH  - *Technology, Radiologic/education
+MH  - Empowerment
+MH  - Power, Psychological
+EDAT- 2024/09/06 01:02
+MHDA- 2024/09/06 01:03
+CRDT- 2024/09/05 21:33
+PHST- 2024/09/06 01:03 [medline]
+PHST- 2024/09/06 01:02 [pubmed]
+PHST- 2024/09/05 21:33 [entrez]
+AID - 96/1/37 [pii]
+PST - ppublish
+SO  - Radiol Technol. 2024 Sep;96(1):37-44.
+
+PMID- 37362751
+OWN - NLM
+STAT- Publisher
+LR  - 20230928
+IS  - 1573-174X (Electronic)
+IS  - 0018-1560 (Print)
+IS  - 0018-1560 (Linking)
+DP  - 2023 May 13
+TI  - Positioning through epistemic cognition in higher education: conceptualising the 
+      ways in which academics in a business school view heutagogy.
+PG  - 1-17
+LID - 10.1007/s10734-023-01048-2 [doi]
+AB  - Teaching and learning in higher education is informed by a multitude of 
+      conditioning factors, not least the values systems and outlook of academics. 
+      Understanding the epistemological positioning taken by academics in relation to 
+      teaching and learning is therefore important if we are to make judgments about 
+      how we educate now, and could do so in the future. Developments in educational 
+      theory and digital technology have opened-up new possibilities for the ways in 
+      which students learn, and to a degree this has been accelerated by the responses 
+      from universities to the COVID-19 pandemic. How then should we conceive the 
+      future? Heutagogy is one of a number of theoretical approaches that has attracted 
+      interest from those who wish to see greater student control over the learning 
+      journey- but how widespread is this view amongst academics? This paper reports on 
+      a qualitative study in which 12 academics in an English Business School were 
+      asked to describe their views on teaching and learning, which we can encapsulate 
+      through the concept of epistemic cognition. The findings infer that there is 
+      little epistemological underpinning for heutagogy and that if academics are going 
+      to innovate, then additional resource and professional development should be put 
+      in place to support epistemic reflexivity, and a shift in their epistemological 
+      positioning. The paper conceptualises academics' positioning through a typology 
+      of epistemic views.
+CI  - © The Author(s), under exclusive licence to Springer Nature B.V. 2023, Springer 
+      Nature or its licensor (e.g. a society or other partner) holds exclusive rights 
+      to this article under a publishing agreement with the author(s) or other 
+      rightsholder(s); author self-archiving of the accepted manuscript version of this 
+      article is solely governed by the terms of such publishing agreement and 
+      applicable law.
+FAU - Stoten, David William
+AU  - Stoten DW
+AUID- ORCID: 0000-0001-7785-3771
+AD  - Newcastle Business School, Northumbria University, Newcastle Upon Tyne, UK. GRID: 
+      grid.42629.3b. ISNI: 0000000121965555
+LA  - eng
+PT  - Journal Article
+DEP - 20230513
+PL  - Netherlands
+TA  - High Educ (Dordr)
+JT  - Higher education
+JID - 101726121
+PMC - PMC10182343
+OTO - NOTNLM
+OT  - Business school
+OT  - Epistemic cognition
+OT  - Epistemic competence
+OT  - Heutagogy
+OT  - Teaching and learning
+COIS- Conflict of interestThe author declares no competing interests.
+EDAT- 2023/06/26 19:07
+MHDA- 2023/06/26 19:07
+PMCR- 2023/05/13
+CRDT- 2023/06/26 13:08
+PHST- 2023/04/24 00:00 [accepted]
+PHST- 2023/06/26 19:07 [pubmed]
+PHST- 2023/06/26 19:07 [medline]
+PHST- 2023/06/26 13:08 [entrez]
+PHST- 2023/05/13 00:00 [pmc-release]
+AID - 1048 [pii]
+AID - 10.1007/s10734-023-01048-2 [doi]
+PST - aheadofprint
+SO  - High Educ (Dordr). 2023 May 13:1-17. doi: 10.1007/s10734-023-01048-2.
+
+PMID- 38053596
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231207
+IS  - 2352-3409 (Electronic)
+IS  - 2352-3409 (Linking)
+VI  - 51
+DP  - 2023 Dec
+TI  - Learning Meta-Learning (LML) dataset: Survey data of meta-learning parameters.
+PG  - 109777
+LID - 10.1016/j.dib.2023.109777 [doi]
+LID - 109777
+AB  - The 'Learning Meta-Learning' dataset presented in this paper contains both 
+      categorical and continuous data of adult learners for 7 meta-learning parameters: 
+      age, gender, degree of illusion of competence, sleep duration, chronotype, 
+      experience of the imposter phenomenon, and multiple intelligences. Convenience 
+      sampling and Simple Random Sampling methods are used to structure the anonymous 
+      online survey data collection voluntarily for LML dataset creation. The responses 
+      from the 54 survey questionnaires contain raw data from 1021 current students 
+      from 11 universities in Bangladesh. The entire dataset is stored in an excel file 
+      and the entire questionnaire is accessible at (10.5281/zenodo.8112213) In this 
+      article mean and standard deviation for the participant's baseline attributes are 
+      given for scale parameters, and frequency and percentage are calculated for 
+      categorical parameters. Academic curriculum, courses as well as professional 
+      training materials can be reviewed and redesigned with a focus on the diversity 
+      of learners. How the designed courses will be learned by learners along with how 
+      they will be taught is a significant point for education in any discipline. As 
+      the survey questionnaires are set for adult learners and only current university 
+      students have participated in this survey, this dataset is appropriate for study 
+      andragogy and heutagogy but not pedagogy.
+CI  - © 2023 The Author(s).
+FAU - Corraya, Sonia
+AU  - Corraya S
+AD  - Institute of Information Technology, Jahangirnagar University, Bangladesh.
+FAU - Mamun, Shamim Al
+AU  - Mamun SA
+AD  - Institute of Information Technology, Jahangirnagar University, Bangladesh.
+FAU - Kaiser, M Shamim
+AU  - Kaiser MS
+AD  - Institute of Information Technology, Jahangirnagar University, Bangladesh.
+LA  - eng
+PT  - Journal Article
+DEP - 20231107
+PL  - Netherlands
+TA  - Data Brief
+JT  - Data in brief
+JID - 101654995
+PMC - PMC10694062
+OTO - NOTNLM
+OT  - Chronotype
+OT  - Illusion of competence
+OT  - Imposter phenomenon
+OT  - Learners’ biosocial parameter
+OT  - Multiple Intelligence
+EDAT- 2023/12/06 06:42
+MHDA- 2023/12/06 06:43
+PMCR- 2023/11/07
+CRDT- 2023/12/06 04:05
+PHST- 2023/05/23 00:00 [received]
+PHST- 2023/10/02 00:00 [revised]
+PHST- 2023/11/01 00:00 [accepted]
+PHST- 2023/12/06 06:43 [medline]
+PHST- 2023/12/06 06:42 [pubmed]
+PHST- 2023/12/06 04:05 [entrez]
+PHST- 2023/11/07 00:00 [pmc-release]
+AID - S2352-3409(23)00841-7 [pii]
+AID - 109777 [pii]
+AID - 10.1016/j.dib.2023.109777 [doi]
+PST - epublish
+SO  - Data Brief. 2023 Nov 7;51:109777. doi: 10.1016/j.dib.2023.109777. eCollection 
+      2023 Dec.
+
+PMID- 35919874
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230228
+IS  - 1360-2357 (Print)
+IS  - 1573-7608 (Electronic)
+IS  - 1360-2357 (Linking)
+VI  - 28
+IP  - 2
+DP  - 2023
+TI  - Innovative pedagogical principles and technological tools capabilities for 
+      immersive blended learning: a systematic literature review.
+PG  - 1373-1425
+LID - 10.1007/s10639-022-11243-w [doi]
+AB  - Blended learning is widely known for its ability to improve learning, 
+      nevertheless little is still known about the best ways of designing effective 
+      blended learning environment which can support immersive learning such as greater 
+      learning experience and accessibility to education. In this respect, this study 
+      investigates the mapping of the principles of three Education 4.0 innovative 
+      pedagogies, namely, heutagogy, peeragogy, and cybergogy, with the capabilities of 
+      three technological learning tools, that is, Facebook (FB), Learning Management 
+      System (LMS), and Blog, via a systematic literature review technique. The 
+      Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 
+      guidelines were used as the methodology, and the literature was further selected 
+      using Gough's Weight of Evidence criteria, resulting in 59 studies. The results 
+      show that cognitive factor is the most linked pedagogical principle to the four 
+      main capabilities of technological learning tools, that is, time, self-related, 
+      learning task, and learning community-related. This mapping is useful for 
+      instructors to plan learning and teaching by choosing the technological learning 
+      tools that match with appropriate Education 4.0 pedagogies for optimising the 
+      immersive blended learning practices.
+CI  - © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, 
+      part of Springer Nature 2022.
+FAU - Bizami, Najwa Amanina
+AU  - Bizami NA
+AD  - Department of Science, Mathematics & Creative Multimedia Education, School of 
+      Education, Faculty of Social Sciences and Humanities, Universiti Teknologi 
+      Malaysia, Johor Bahru, 81310 Johor, Malaysia. GRID: grid.410877.d. ISNI: 0000 
+      0001 2296 1505
+FAU - Tasir, Zaidatun
+AU  - Tasir Z
+AD  - Department of Science, Mathematics & Creative Multimedia Education, School of 
+      Education, Faculty of Social Sciences and Humanities, Universiti Teknologi 
+      Malaysia, Johor Bahru, 81310 Johor, Malaysia. GRID: grid.410877.d. ISNI: 0000 
+      0001 2296 1505
+FAU - Kew, Si Na
+AU  - Kew SN
+AD  - Language Academy, Faculty of Social Sciences and Humanities, Universiti Teknologi 
+      Malaysia, Johor Bahru, 81310 Johor, Malaysia. GRID: grid.410877.d. ISNI: 0000 
+      0001 2296 1505
+LA  - eng
+PT  - Journal Article
+DEP - 20220729
+PL  - Netherlands
+TA  - Educ Inf Technol (Dordr)
+JT  - Education and information technologies
+JID - 101705199
+PMC - PMC9334534
+OTO - NOTNLM
+OT  - Cybergogy
+OT  - Heutagogy
+OT  - Immersive blended learning
+OT  - Innovative pedagogical principles
+OT  - Peeragogy
+OT  - Technological learning tools capabilities
+COIS- Competing interestsThe authors declare that they have no competing interests.
+EDAT- 2022/08/04 06:00
+MHDA- 2022/08/04 06:01
+PMCR- 2022/07/29
+CRDT- 2022/08/03 02:14
+PHST- 2022/02/13 00:00 [received]
+PHST- 2022/07/14 00:00 [accepted]
+PHST- 2022/08/04 06:00 [pubmed]
+PHST- 2022/08/04 06:01 [medline]
+PHST- 2022/08/03 02:14 [entrez]
+PHST- 2022/07/29 00:00 [pmc-release]
+AID - 11243 [pii]
+AID - 10.1007/s10639-022-11243-w [doi]
+PST - ppublish
+SO  - Educ Inf Technol (Dordr). 2023;28(2):1373-1425. doi: 10.1007/s10639-022-11243-w. 
+      Epub 2022 Jul 29.
+
+PMID- 39120121
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241010
+LR  - 20241014
+IS  - 1477-0989 (Electronic)
+IS  - 0969-7330 (Print)
+IS  - 0969-7330 (Linking)
+VI  - 31
+IP  - 7
+DP  - 2024 Nov
+TI  - Is epistemic injustice a worthy application to mental health nurse education?
+PG  - 1196-1204
+LID - 10.1177/09697330241259154 [doi]
+AB  - This paper explores the philosophical concept of epistemic injustice and contends 
+      its significance and relevance to mental health nurse education and clinical 
+      practice. The term epistemic injustice may be unfamiliar to mental health nurses, 
+      yet the effects are readily visible in the dismissing, silencing, and doubting of 
+      service users' knowledge, testimony, and interpretation. Existing professional 
+      values and clinical standards lack depth and critical exploration pertaining to 
+      epistemology and associated ethical concerns. Despite central tenets of 
+      person-centred care and valuing the service users' voice, epistemic injustice 
+      continues to occur. Epistemic injustice cannot be summed up merely by asking 
+      nurses to listen to service users. This represents an oversimplification of 
+      epistemology, ignoring the complexities of social influence and knowledge 
+      exchanges. Epistemic injustice brings something new and innovative to the nursing 
+      curriculum and fits within the principles of heutagogy. It encourages deep 
+      reflexivity surrounding the ethical issues of power inequalities and 
+      intersectionality. Inclusion in mental health nursing education allows for the 
+      social and political powers of psychiatric diagnosis as a form of silencing and 
+      stigma to be examined. Practical application is made to mental health nursing 
+      education and practice with epistemological values and ethical reflexive prompts. 
+      These can be utilised by educators and lecturers for pre-registration mental 
+      health nurse education, post-registration, and continued professional 
+      development.
+FAU - Fisher, Jane
+AU  - Fisher J
+AUID- ORCID: 0000-0002-8422-1315
+AD  - University of Central Lancashire.
+LA  - eng
+PT  - Journal Article
+DEP - 20240809
+PL  - England
+TA  - Nurs Ethics
+JT  - Nursing ethics
+JID - 9433357
+SB  - IM
+MH  - Humans
+MH  - *Psychiatric Nursing/ethics/education/methods
+MH  - *Social Justice
+MH  - Curriculum/trends/standards
+MH  - Education, Nursing/methods/standards
+MH  - Knowledge
+PMC - PMC11470644
+OTO - NOTNLM
+OT  - critical psychitary
+OT  - epistemic injustice
+OT  - mental health nurse education
+OT  - mental health nursing
+OT  - nursing ethics
+OT  - testimonial injustice
+COIS- Declaration of conflicting interestsThe author(s) declared no potential conflicts 
+      of interest with respect to the research, authorship, and/or publication of this 
+      article.
+EDAT- 2024/08/09 12:43
+MHDA- 2024/10/10 18:50
+PMCR- 2024/10/12
+CRDT- 2024/08/09 08:43
+PHST- 2024/10/10 18:50 [medline]
+PHST- 2024/08/09 12:43 [pubmed]
+PHST- 2024/08/09 08:43 [entrez]
+PHST- 2024/10/12 00:00 [pmc-release]
+AID - 10.1177_09697330241259154 [pii]
+AID - 10.1177/09697330241259154 [doi]
+PST - ppublish
+SO  - Nurs Ethics. 2024 Nov;31(7):1196-1204. doi: 10.1177/09697330241259154. Epub 2024 
+      Aug 9.
+
+PMID- 36577648
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230612
+LR  - 20230612
+IS  - 1878-1799 (Electronic)
+IS  - 1871-5192 (Linking)
+VI  - 36
+IP  - 4
+DP  - 2023 Jul
+TI  - Learning through relationships: The transformative learning experience of 
+      midwifery continuity of care for students: A qualitative study.
+PG  - 385-392
+LID - S1871-5192(22)00366-3 [pii]
+LID - 10.1016/j.wombi.2022.12.006 [doi]
+AB  - BACKGROUND: Midwifery curricula in Australia incorporate 'Continuity of care 
+      experiences' (CoCE) as an educational strategy based on an assumption that 
+      midwifery students will learn skills and knowledge about woman-centred care that 
+      they may not learn in the typical fragmented care system. However, exactly what 
+      skills and knowledge they are expected to 'learn' and how these can be assessed 
+      have never been specifically identified. AIM: To explore midwifery students' 
+      continuity of care learning experiences within pre-registration midwifery 
+      education. METHODS: Focus groups were conducted with first, second and third year 
+      Bachelor of Midwifery students (n = 12), who were undertaking CoCE in rural and 
+      regional tertiary hospitals in NSW, Australia. FINDINGS: The overarching theme, 
+      'Learning through relationships', was made up of three interrelated themes: 
+      Meeting women and making connections, Being known, and Understanding holistic 
+      care. DISCUSSION: The findings from this study contribute to understanding the 
+      educational effects of CoCE. The CoCE relationship provided safety and freedom to 
+      learn which was seen as foundational for midwifery students' vision of their 
+      future practice and can be seen as a self-determined transformational approach to 
+      learning. CONCLUSION: This study adds insight into midwifery students' experience 
+      of CoCE, and demonstrates that transformative learning occurs through developing 
+      a relationship with both the woman and the midwife. For midwifery to develop as a 
+      profession and maintain its focus on woman-centredness, it is important that this 
+      aspect of midwifery education remains embedded within midwifery program 
+      philosophies and learning outcomes.
+CI  - Copyright © 2022 Australian College of Midwives. Published by Elsevier Ltd. All 
+      rights reserved.
+FAU - Hainsworth, Nicole
+AU  - Hainsworth N
+AD  - School of Nursing and Midwifery, College of Health Medicine and Wellbeing, 
+      University of Newcastle, NSW, Australia. Electronic address: 
+      nicole.hainsworth@newcastle.edu.au.
+FAU - Cummins, Allison
+AU  - Cummins A
+AD  - School of Nursing and Midwifery, College of Health Medicine and Wellbeing, 
+      University of Newcastle, NSW, Australia.
+FAU - Newnham, Elizabeth
+AU  - Newnham E
+AD  - School of Nursing and Midwifery, College of Health Medicine and Wellbeing, 
+      University of Newcastle, NSW, Australia.
+FAU - Foureur, Maralyn
+AU  - Foureur M
+AD  - School of Nursing and Midwifery, College of Health Medicine and Wellbeing, 
+      University of Newcastle, NSW, Australia; Hunter New England Lower Health 
+      District, NSW, Australia; Hunter Medical Research Institute, New Lambton Heights, 
+      NSW 2305, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20221226
+PL  - Netherlands
+TA  - Women Birth
+JT  - Women and birth : journal of the Australian College of Midwives
+JID - 101266131
+MH  - Pregnancy
+MH  - Female
+MH  - Humans
+MH  - *Midwifery/education
+MH  - *Students, Nursing
+MH  - Learning
+MH  - Australia
+MH  - Qualitative Research
+MH  - Continuity of Patient Care
+OTO - NOTNLM
+OT  - Continuity of care
+OT  - Education
+OT  - Heutagogy
+OT  - Midwifery
+OT  - Transformational learning
+COIS- Conflict of interest The authors declare that they have no known competing 
+      financial interests or personal relationships that could have appeared to 
+      influence the work reported in this paper.
+EDAT- 2022/12/29 06:00
+MHDA- 2023/06/12 06:42
+CRDT- 2022/12/28 21:57
+PHST- 2022/09/02 00:00 [received]
+PHST- 2022/11/15 00:00 [revised]
+PHST- 2022/12/21 00:00 [accepted]
+PHST- 2023/06/12 06:42 [medline]
+PHST- 2022/12/29 06:00 [pubmed]
+PHST- 2022/12/28 21:57 [entrez]
+AID - S1871-5192(22)00366-3 [pii]
+AID - 10.1016/j.wombi.2022.12.006 [doi]
+PST - ppublish
+SO  - Women Birth. 2023 Jul;36(4):385-392. doi: 10.1016/j.wombi.2022.12.006. Epub 2022 
+      Dec 26.
