@@ -1,0 +1,154 @@
+PMID- 37362751
+OWN - NLM
+STAT- Publisher
+LR  - 20230928
+IS  - 1573-174X (Electronic)
+IS  - 0018-1560 (Print)
+IS  - 0018-1560 (Linking)
+DP  - 2023 May 13
+TI  - Positioning through epistemic cognition in higher education: conceptualising the 
+      ways in which academics in a business school view heutagogy.
+PG  - 1-17
+LID - 10.1007/s10734-023-01048-2 [doi]
+AB  - Teaching and learning in higher education is informed by a multitude of 
+      conditioning factors, not least the values systems and outlook of academics. 
+      Understanding the epistemological positioning taken by academics in relation to 
+      teaching and learning is therefore important if we are to make judgments about 
+      how we educate now, and could do so in the future. Developments in educational 
+      theory and digital technology have opened-up new possibilities for the ways in 
+      which students learn, and to a degree this has been accelerated by the responses 
+      from universities to the COVID-19 pandemic. How then should we conceive the 
+      future? Heutagogy is one of a number of theoretical approaches that has attracted 
+      interest from those who wish to see greater student control over the learning 
+      journey- but how widespread is this view amongst academics? This paper reports on 
+      a qualitative study in which 12 academics in an English Business School were 
+      asked to describe their views on teaching and learning, which we can encapsulate 
+      through the concept of epistemic cognition. The findings infer that there is 
+      little epistemological underpinning for heutagogy and that if academics are going 
+      to innovate, then additional resource and professional development should be put 
+      in place to support epistemic reflexivity, and a shift in their epistemological 
+      positioning. The paper conceptualises academics' positioning through a typology 
+      of epistemic views.
+CI  - © The Author(s), under exclusive licence to Springer Nature B.V. 2023, Springer 
+      Nature or its licensor (e.g. a society or other partner) holds exclusive rights 
+      to this article under a publishing agreement with the author(s) or other 
+      rightsholder(s); author self-archiving of the accepted manuscript version of this 
+      article is solely governed by the terms of such publishing agreement and 
+      applicable law.
+FAU - Stoten, David William
+AU  - Stoten DW
+AUID- ORCID: 0000-0001-7785-3771
+AD  - Newcastle Business School, Northumbria University, Newcastle Upon Tyne, UK. GRID: 
+      grid.42629.3b. ISNI: 0000000121965555
+LA  - eng
+PT  - Journal Article
+DEP - 20230513
+PL  - Netherlands
+TA  - High Educ (Dordr)
+JT  - Higher education
+JID - 101726121
+PMC - PMC10182343
+OTO - NOTNLM
+OT  - Business school
+OT  - Epistemic cognition
+OT  - Epistemic competence
+OT  - Heutagogy
+OT  - Teaching and learning
+COIS- Conflict of interestThe author declares no competing interests.
+EDAT- 2023/06/26 19:07
+MHDA- 2023/06/26 19:07
+PMCR- 2023/05/13
+CRDT- 2023/06/26 13:08
+PHST- 2023/04/24 00:00 [accepted]
+PHST- 2023/06/26 19:07 [pubmed]
+PHST- 2023/06/26 19:07 [medline]
+PHST- 2023/06/26 13:08 [entrez]
+PHST- 2023/05/13 00:00 [pmc-release]
+AID - 1048 [pii]
+AID - 10.1007/s10734-023-01048-2 [doi]
+PST - aheadofprint
+SO  - High Educ (Dordr). 2023 May 13:1-17. doi: 10.1007/s10734-023-01048-2.
+
+PMID- 34778541
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211117
+IS  - 2365-9440 (Electronic)
+IS  - 2365-9440 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2021
+TI  - A heutagogical approach for the assessment of Internet Communication Technology 
+      (ICT) assignments in higher education.
+PG  - 55
+LID - 10.1186/s41239-021-00290-x [doi]
+LID - 55
+AB  - Pedagogical foundations exist for incorporating technology in instruction; 
+      however, these foundations have not kept pace with technology's evolution. 
+      Through the use of Information Communication Technologies (ICTs), students now 
+      can share content directed at external audiences, i.e., audiences other than the 
+      instructor. These audiences are referred to as authentic audiences as they are 
+      public-facing and exist outside of the classroom. The existing literature offers 
+      evidence of student satisfaction with assignments directed at appealing to 
+      external audiences, however, the literature provides no comprehensive pedagogical 
+      rationale for assignments directed at authentic audiences wherein the goals are 
+      self-determined. The authors discuss the theory of heutagogy, the study of 
+      self-determined learning, as an approach for assessing assignments that utilize 
+      ICTs and are directed at authentic audiences. Finally, the authors offer an 
+      approach for the assessment of these assignments, including a rubric.
+CI  - © The Author(s) 2021.
+FAU - Lynch, Michael
+AU  - Lynch M
+AUID- ORCID: 0000-0003-0332-0563
+AD  - University at Buffalo School of Social Work, 685 Baldy Hall, Buffalo, NY 14260 
+      USA. GRID: grid.273335.3. ISNI: 0000 0004 1936 9887
+FAU - Sage, Todd
+AU  - Sage T
+AUID- ORCID: 0000-0001-9879-5080
+AD  - University at Buffalo School of Social Work, 685 Baldy Hall, Buffalo, NY 14260 
+      USA. GRID: grid.273335.3. ISNI: 0000 0004 1936 9887
+FAU - Hitchcock, Laurel Iverson
+AU  - Hitchcock LI
+AUID- ORCID: 0000-0002-3062-9622
+AD  - Department of Social Work, University of Alabama at Birmingham, 3154 University 
+      Hall, 1402 10th Avenue South, Birmingham, AL 35294-1241 USA. GRID: grid.265892.2. 
+      ISNI: 0000000106344187
+FAU - Sage, Melanie
+AU  - Sage M
+AUID- ORCID: 0000-0002-3385-9650
+AD  - University at Buffalo School of Social Work, 685 Baldy Hall, Buffalo, NY 14260 
+      USA. GRID: grid.273335.3. ISNI: 0000 0004 1936 9887
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20211018
+PL  - Switzerland
+TA  - Int J Educ Technol High Educ
+JT  - International journal of educational technology in higher education
+JID - 9918284166106676
+PMC - PMC8520768
+OTO - NOTNLM
+OT  - Assessment
+OT  - Authentic audiences
+OT  - Evaluation
+OT  - Heutagogy
+OT  - Internet Communication Technologies (ICT)
+OT  - Self-directed learning
+COIS- Competing interestsWe do not have any conflicts of interest with publishing this 
+      manuscript, and we have seen, read, and understood the journal’s guidelines on 
+      copyright.
+EDAT- 2021/11/16 06:00
+MHDA- 2021/11/16 06:01
+PMCR- 2021/10/18
+CRDT- 2021/11/15 07:11
+PHST- 2021/03/23 00:00 [received]
+PHST- 2021/07/28 00:00 [accepted]
+PHST- 2021/11/15 07:11 [entrez]
+PHST- 2021/11/16 06:00 [pubmed]
+PHST- 2021/11/16 06:01 [medline]
+PHST- 2021/10/18 00:00 [pmc-release]
+AID - 290 [pii]
+AID - 10.1186/s41239-021-00290-x [doi]
+PST - ppublish
+SO  - Int J Educ Technol High Educ. 2021;18(1):55. doi: 10.1186/s41239-021-00290-x. 
+      Epub 2021 Oct 18.
